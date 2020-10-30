@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sudocreate258/test_project/_apis/build/status/sudoCreate258.pipelines-java?branchName=master)](https://dev.azure.com/sudocreate258/test_project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
